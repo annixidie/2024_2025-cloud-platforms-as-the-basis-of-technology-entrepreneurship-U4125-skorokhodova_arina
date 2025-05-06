@@ -90,7 +90,8 @@ __Описание архитектуры:__
 <img width="1225" alt="image" src="https://github.com/user-attachments/assets/03d75507-3ec0-4594-a531-10423c62ad40" />
 
 __Примерная стоимость (в мес):__  
-<img width="286" alt="image" src="https://github.com/user-attachments/assets/01d52d03-9dac-43af-886a-ceb751e307a4" />
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/845db217-6f28-429f-9166-c2915dc5f968" />
+
 
 
 __Обоснование:__  
